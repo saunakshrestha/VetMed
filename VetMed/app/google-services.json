@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834921699085",
+    "project_id": "vetmedproject",
+    "storage_bucket": "vetmedproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834921699085:android:224da99afe4849650d4244",
+        "android_client_info": {
+          "package_name": "com.example.vetmedapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834921699085-3b8931k1oscf5vt0rsab2ivb8ar7so35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzSATLGoExofetkn113N82azttIGqgAFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834921699085-3b8931k1oscf5vt0rsab2ivb8ar7so35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
